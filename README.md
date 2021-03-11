@@ -1,4 +1,4 @@
-### [Brian Mugenya] (https://bmugenya.netlify.app/)
+### [Brian Mugenya](https://bmugenya.netlify.app/)
 
 Hi there! 👋, I'm a fullstack software engineer and I'm available for hire/open to remote opportunities. I'm a big fan of cloud computing, artificial intelligence and machine learning.
 
