@@ -12,6 +12,7 @@ Hi there! 👋, I'm a fullstack software engineer and I'm available for hire/ope
 - 💬 Ask me about Narutopia or better yet Rafiki.
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=bmugenya&show_icons=true&hide_border=true" />
+[![Brians Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bmugenya&theme=radical)](https://github.com/bmugenya)
 
 
 **How to reach me:**  
